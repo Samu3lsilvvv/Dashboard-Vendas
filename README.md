@@ -56,7 +56,7 @@ A aplicação foi desenvolvida com Streamlit, proporcionando uma experiência se
 ## Performance Regional e Análise de Dispersão
 
 <p align="center">
-  <img src="assets/dashboard-visualizacoes.png" width="900">
+  <img src="assets/image4.png" width="900">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ A aplicação foi desenvolvida com Streamlit, proporcionando uma experiência se
 ## Análise de Dispersão com Segmentação por Produto
 
 <p align="center">
-  <img src="assets/dashboard-visualizacoes.png" width="900">
+  <img src="assets/image5.png" width="900">
 </p>
 
 <p align="center">
